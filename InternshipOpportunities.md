@@ -13,3 +13,28 @@
 - Data Science Intern at Swiggy . Check at https://www.linkedin.com/jobs/view/990727647/
 
 - Research Internship at IIT Gandhinagar . Check at https://internshala.com/internship/details/engineering-internship-in-gandhinagar-at-iit-gandhinagar1546581793
+
+- Summer Internship Program at Deloitte . Check at https://www2.deloitte.com/ie/en/pages/careers/articles/summer-intern-programme.html .
+
+- Internships at ZS India . Check at https://www.zs.com/careers/india/recruiting/internships .
+
+- Computer Vision & ML Engineering Intern at Craterland . Check it at https://angel.co/craterland/jobs/446052-computer-vision-ml-engineering-intern .
+
+- Summer Research Internship at IISC Bangalore . Check it at https://internshala.com/internship/details/engineering-internship-in-bangalore-at-iisc-bangalore1546603464 .
+
+- Data Science Intern at Yobs Technologies . Check it at https://angel.co/yobs/jobs/223226-data-science-intern .
+
+- ML & NLP Engineer Intern at theGlancer . Check it at https://angel.co/glancer/jobs/248273-nlp-engineer-intern-w-python .
+
+- Machine Learning Internship at Valuefy . Check it at https://angel.co/valuefy-com/jobs/447441-machine-learning-intern-would-prefer-candidates-available-to-join-immediately .
+
+- Technical Internships at SocialCops . Check it at https://socialcops.com/careers/positions/#ProductEngineering .
+
+- Data Analysis & Communications at Consultivo . Check it at https://internshala.com/internship/detail/data-analysis-communications-internship-in-kolkata-at-consultivo1542435850 .
+
+- Computer Vision Internship at Dot Learn . Check it at https://internshala.com/internship/detail/software-engineering-computer-vision-internship-in-bangalore-at-dot-learn1542964565 .
+
+- Data Analytics Internship at Knol Power Limited . Check it at https://internshala.com/internship/detail/data-analytics-work-from-home-job-internship-at-knol-power-limited1543668130 .
+
+- Data science / Machine learning Interns at Payzello . Check it at https://angel.co/payzello/jobs/462346-data-science-internship .
+
