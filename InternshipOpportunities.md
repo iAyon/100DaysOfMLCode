@@ -11,3 +11,5 @@
 - Student Internship Program, 2019 at Opscale . Check at https://www.linkedin.com/jobs/view/141900077/ .
 
 - Data Science Intern at Swiggy . Check at https://www.linkedin.com/jobs/view/990727647/
+
+- Research Internship at IIT Gandhinagar . Check at https://internshala.com/internship/details/engineering-internship-in-gandhinagar-at-iit-gandhinagar1546581793
