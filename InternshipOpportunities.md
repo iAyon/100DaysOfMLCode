@@ -38,3 +38,30 @@
 
 - Data science / Machine learning Interns at Payzello . Check it at https://angel.co/payzello/jobs/462346-data-science-internship .
 
+- Computer Vision and Deep Learning Internship at Marsplay . Check it at https://angel.co/marsplay/jobs/322590-computer-vision-and-deep-learning-internship .
+
+- Data Engineer / Data Scientist at Arqaam . Check it out at https://angel.co/arqaam/jobs/424627-data-engineer-data-scientist .
+
+- Machine Learning Internship at NovumAI . Check it out at https://angel.co/novumai/jobs/450949-internship-machine-learning .
+
+- Research Assistant Intern at State of Place . Check it out at https://angel.co/state-of-place/jobs/164393-research-assistant-intern .
+
+- Data Analyst at Bandalier . Check it out at https://angel.co/bandalier-1/jobs/454620-data-analyst .
+
+- Quantitative Research / Data Science Internship at BitBroker . Check it at https://angel.co/bitbroker/jobs/380695-quantitative-research-data-science-internship .
+
+- Data Analytics Internship at Inktop Publishers . Check it out at https://internshala.com/internship/detail/data-analytics-work-from-home-jobinternship-at-inktop-publisher-private-limited1540916109 .
+
+- Data Engineering Internship at Praktice.ai . Check it out at https://internshala.com/internship/detail/data-engineering-work-from-home-jobinternship-at-prakticeai1539251879 .
+
+- Data Scientist at Venture Smarter . Check it out at https://angel.co/venture-smarter/jobs/271050-data-scientist .
+
+- Deep Learning Internship at Pucho Technology . Check it out at https://internshala.com/internship/detail/deep-learning-work-from-home-jobinternship-at-pucho-technology-information-private-limited1539986550 .
+
+- Data Analytics Internship at Tutorpoint . Check it out at https://internshala.com/internship/detail/data-analytics-work-from-home-jobinternship-at-tutorpoint1540667930 .
+
+- Data Science intern at Veamly . Check it out at https://angel.co/veamly/jobs/405408-data-science-intern .
+
+- Data Scientist at GeoBram . Check it out at https://angel.co/geobram/jobs/226992-intern-software-engineer-data-scientist .
+
+- Data Science Intern at Outdoor Ninja . Check it out at https://angel.co/outdoorninja/jobs/283522-data-science-intern .
