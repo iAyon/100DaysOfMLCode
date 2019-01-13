@@ -65,3 +65,9 @@
 - Data Scientist at GeoBram . Check it out at https://angel.co/geobram/jobs/226992-intern-software-engineer-data-scientist .
 
 - Data Science Intern at Outdoor Ninja . Check it out at https://angel.co/outdoorninja/jobs/283522-data-science-intern .
+
+- Machine Learning Research Fellowship at Tata Institute Of Fundamental Research . Check it out at http://www.tifr.res.in/~vsrp/vsrp2019/VSRP2019.htm .
+
+- Internship at Chennai Mathematical Institute . Check it out at https://www.cmi.ac.in//admissions/internships.php#csinternships .
+
+- 
