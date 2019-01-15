@@ -70,4 +70,19 @@
 
 - Internship at Chennai Mathematical Institute . Check it out at https://www.cmi.ac.in//admissions/internships.php#csinternships .
 
-- 
+- Data Science and Machine Learning Internship at iTech Mission Private Limited . Check it out at https://internshala.com/internship/https://internshala.com/internship/detail/data-science-and-machine-learning-internship-in-delhi-at-itech-mission-private-limited1547465240 .
+
+- Data Analytics Internship at TBM Technologies Private Limited . Check it out at https://internshala.com/internship/detail/data-analytics-internship-in-delhi-at-tbm-technologies-private-limited1547398992 .
+
+- Data Science Internship at BuildForBharat . Check it out at https://internshala.com/internship/detail/data-science-internship-in-delhi-at-buildforbharatorg1547302155 .
+
+- Data Science Internship at Learnogether Technologies Private Limited . Check it out at https://internshala.com/internship/detail/data-science-internship-in-multiple-locations-at-learnogether-technologies-private-limited1547118974 .
+
+- Digital Image Processing And Computer Vision (Machine Learning) Development Internship at ESSI Integrated Technologies . Check it out at https://internshala.com/internship/detail/digital-image-processing-and-computer-vision-machine-learning-development-part-time-job-internship-at-delhi-in-essi-integrated-technologies1546685660 .
+
+- Machine Learning Internship at CogniAble . Check it out at https://internshala.com/internship/detail/machine-learning-internship-in-gurgaon-at-cogniable1547280219 .
+
+- Machine Learning Internship at CivilCops . Check it out at https://internshala.com/internship/detail/machine-learning-nlp-chatbot-development-internship-in-gurgaon-at-civilcops1546947527 .
+
+- Machine Learning Internship at GoVocal.AI . Check it out at https://internshala.com/internship/detail/machine-learning-internship-in-gurgaon-at-govocalai1546845371 .
+
