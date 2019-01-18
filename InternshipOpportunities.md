@@ -86,3 +86,4 @@
 
 - Machine Learning Internship at GoVocal.AI . Check it out at https://internshala.com/internship/detail/machine-learning-internship-in-gurgaon-at-govocalai1546845371 .
 
+https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/India---Bangalore/XMLNAME-2019-APAC-Summer-Internship---Global-Technology_R0002824
