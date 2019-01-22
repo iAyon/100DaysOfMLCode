@@ -91,3 +91,5 @@
 - Data Analytics Intern at Invest India . Check it out at https://www.linkedin.com/jobs/view/1060984798/?eBP=CwEAAAFocZcvAyDtC7SWWld-HGS0pWlVu8DHneOi-NR_avcL5oYcmopjAe00yU6qGZDf_nOcxCCfh5W9Y3fP1514VU81L4HMX8JbYG76aSjwP_EuCMp_v0AoUchEchVFQDXgeOEwAu28zO3wtwJuBkO8mshUfrA436SHgL-k0dGE2r-avEyjkwoLjeST-iDnMRrbhprt9nHfCffPyxNBOkHCaf2KvgnlqSz2_5_zYBKfboiG8sutNqDf0DSl9DRze1nIDbSoYEhic7bs0NcqQUzI8CHyvcv1qyxdRYtbNoiKCOC_ZprI4Wj2ilq76oz3c46Sj-xVJT9BHJ7aWFE4I_r9KMM&recommendedFlavor=SCHOOL_RECRUIT&refId=3e210caf-b502-4549-bcb0-28e0c6b34e80&trk=d_flagship3_job_home .
 
 - Data Analytics Internship at ZiffyHomes . Check it out at https://www.linkedin.com/jobs/view/1075487638/?refId=vPj%2Fb1aURjGnoZN76PwpXg%3D%3D .
+
+- Deep Learning Intern at Continual Engine . Check it out at https://www.linkedin.com/jobs/view/1037766930/ .
