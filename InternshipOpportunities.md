@@ -93,3 +93,11 @@
 - Data Analytics Internship at ZiffyHomes . Check it out at https://www.linkedin.com/jobs/view/1075487638/?refId=vPj%2Fb1aURjGnoZN76PwpXg%3D%3D .
 
 - Deep Learning Intern at Continual Engine . Check it out at https://www.linkedin.com/jobs/view/1037766930/ .
+
+- Data Analytics Internship at Groomefy . Check it out at https://internshala.com/internship/detail/data-analytics-internship-in-delhi-at-groomefy1548144914 .
+
+- Data Analytics Internship at Skribe . Check it out at https://internshala.com/internship/detail/data-analytics-internship-in-delhi-at-skribe1548053600 .
+
+- Artificial Intelligence (AI) Internship at Arbunize Digital Media Private Limited . Check it out at https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-multiple-locations-at-arbunize-digital-media-private-limited1547800003 .
+
+- Machine Learning And Artificial Intelligence Intern at SequelOne Solutions Private Limited . Check it out at https://internshala.com/internship/detail/machine-learning-and-artificial-intelligence-internship-in-gurgaon-at-sequelone-solutions-private-limited1547701272 .
