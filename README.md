@@ -1,6 +1,6 @@
 # 100 Days Of ML Telegram Group ([Join here](https://t.me/joinchat/I54yzEjJfNaZpkMmFXRDkg))
 
-- The group which was initiated by me ( Ayon Roy ) to help 10-15 beginners initially , now has a member strength of 2350+ !! Thanks to all the members who joined in , to learn and explore together .
+- The group which was initiated by me ( Ayon Roy ) to help 10-15 beginners initially , now has a member strength of 2360+ !! Thanks to all the members who joined in , to learn and explore together .
 
 ## Motivation for 100 Days of ML Telegram Group which I Initiated
 
