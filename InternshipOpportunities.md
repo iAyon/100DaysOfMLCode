@@ -103,3 +103,5 @@
 - Machine Learning And Artificial Intelligence Intern at SequelOne Solutions Private Limited . Check it out at https://internshala.com/internship/detail/machine-learning-and-artificial-intelligence-internship-in-gurgaon-at-sequelone-solutions-private-limited1547701272 .
 
 - Summer Intern at IBM , Gurgaon ( India ) . Check it out at https://www.linkedin.com/jobs/view/1086791371/
+
+- Machine Learning Intern at HackerEarth . Check it out at https://www.hackerearth.com/companies/hackerearth/jobs/#op-301295-machine-learning-intern .
