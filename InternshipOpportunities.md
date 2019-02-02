@@ -6,6 +6,16 @@
 
 - AI Engineering Intern at Genpact . Check at https://www.linkedin.com/jobs/view/990735573/?trk=li_mtv_apac-in_bcs_mtvgajs5_mtvpromo_gajGenpact .
 
+- Data Analytics Internship at Leverage Edu . Check it out at https://internshala.com/internship/detail/data-analytics-internship-in-delhi-at-leverage-edu1548929803 .
+
+- Data Science Internship at Jambudweep Shodh Kendra . Check it out at https://internshala.com/internship/detail/data-science-internship-in-delhi-at-jambudweep-shodh-kendra1548690554 .
+
+- Data Analytics Internship at Orahi . Check it out at https://internshala.com/internship/detail/analytics-internship-in-gurgaon-at-orahi1548920479 .
+
+- Sentiment Analysis Internship at Sprinklr Private Limited . Check it out at https://internshala.com/internship/detail/sentiment-analysis-internship-in-gurgaon-at-sprinklr-private-limited1548836850 .
+
+- Data Analytics Internship at Cogneau Systems Private Limited . Check it out at https://internshala.com/internship/detail/data-analytics-internship-in-gurgaon-at-cogneau-systems-private-limited1548763767 .
+
 - 2019 Summer Internship - Technology at IHS Markit . Check at https://careers.ihsmarkit.com/job.php?id=R6561&source=LinkedIn_job_postings&utm_source=LinkedIn&utm_medium=Bayard .
 
 - Student Internship Program, 2019 at Opscale . Check at https://www.linkedin.com/jobs/view/141900077/ .
