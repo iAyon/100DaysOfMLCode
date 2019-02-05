@@ -115,3 +115,5 @@
 - Summer Intern at IBM , Gurgaon ( India ) . Check it out at https://www.linkedin.com/jobs/view/1086791371/
 
 - Machine Learning Intern at HackerEarth . Check it out at https://www.hackerearth.com/companies/hackerearth/jobs/#op-301295-machine-learning-intern .
+
+- Computer Vision & Machine Learning Internship at DeepSight AI Labs . Check it out at https://www.linkedin.com/jobs/view/1105034838/
