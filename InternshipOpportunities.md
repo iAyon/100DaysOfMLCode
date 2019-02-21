@@ -8,6 +8,8 @@
 
 - Data Analytics Internship at Leverage Edu . Check it out at https://internshala.com/internship/detail/data-analytics-internship-in-delhi-at-leverage-edu1548929803 .
 
+- Machine Learning Internship at Isourse . Check it out at https://internshala.com/internship/detail/machine-learning-internship-in-delhi-at-isourse1550171395 .
+
 - Data Science Internship at Jambudweep Shodh Kendra . Check it out at https://internshala.com/internship/detail/data-science-internship-in-delhi-at-jambudweep-shodh-kendra1548690554 .
 
 - Data Analytics Internship at Orahi . Check it out at https://internshala.com/internship/detail/analytics-internship-in-gurgaon-at-orahi1548920479 .
@@ -15,6 +17,8 @@
 - Sentiment Analysis Internship at Sprinklr Private Limited . Check it out at https://internshala.com/internship/detail/sentiment-analysis-internship-in-gurgaon-at-sprinklr-private-limited1548836850 .
 
 - Data Analytics Internship at Cogneau Systems Private Limited . Check it out at https://internshala.com/internship/detail/data-analytics-internship-in-gurgaon-at-cogneau-systems-private-limited1548763767 .
+
+- Data Science Internship at Empass. Check it out at https://internshala.com/internship/detail/data-science-internship-in-gurgaon-at-empass1550594362 .
 
 - 2019 Summer Internship - Technology at IHS Markit . Check at https://careers.ihsmarkit.com/job.php?id=R6561&source=LinkedIn_job_postings&utm_source=LinkedIn&utm_medium=Bayard .
 
@@ -35,6 +39,8 @@
 - Data Science Intern at Yobs Technologies . Check it at https://angel.co/yobs/jobs/223226-data-science-intern .
 
 - ML & NLP Engineer Intern at theGlancer . Check it at https://angel.co/glancer/jobs/248273-nlp-engineer-intern-w-python .
+
+- Machine Learning Internship at Lambda Vision . Check it at https://internshala.com/internship/detail/machine-learning-internship-in-noida-at-lambda-vision1550555508 .
 
 - Machine Learning Internship at Valuefy . Check it at https://angel.co/valuefy-com/jobs/447441-machine-learning-intern-would-prefer-candidates-available-to-join-immediately .
 
