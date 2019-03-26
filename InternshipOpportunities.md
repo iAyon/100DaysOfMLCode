@@ -125,3 +125,7 @@
 - Computer Vision & Machine Learning Internship at DeepSight AI Labs . Check it out at https://www.linkedin.com/jobs/view/1105034838/
 
 - Machine Learning Internship at GrainPad . Check it out at https://angel.co/grainpad/jobs/354684-machine-learning-internship .
+
+- Machine Learning Intern at Pyramid Cyber Security & Forensic Pvt. Ltd. Check it out at https://www.linkedin.com/jobs/view/1174448153/ .
+
+- Machine Learning Internship at Ocaision . Check it out at https://www.linkedin.com/jobs/view/1186845588/ .
