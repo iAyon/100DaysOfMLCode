@@ -129,3 +129,5 @@
 - Machine Learning Intern at Pyramid Cyber Security & Forensic Pvt. Ltd. Check it out at https://www.linkedin.com/jobs/view/1174448153/ .
 
 - Machine Learning Internship at Ocaision . Check it out at https://www.linkedin.com/jobs/view/1186845588/ .
+
+- Business Analytics Internship at Flipkart . Check it out at https://internshala.com/internship/detail/business-analytics-internship-in-bangalore-at-flipkart1552282103 .
