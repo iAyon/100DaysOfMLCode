@@ -131,3 +131,11 @@
 - Machine Learning Internship at Ocaision . Check it out at https://www.linkedin.com/jobs/view/1186845588/ .
 
 - Business Analytics Internship at Flipkart . Check it out at https://internshala.com/internship/detail/business-analytics-internship-in-bangalore-at-flipkart1552282103 .
+
+- Data Analyst ( Scripting - Internship )at niki.ai . Check it out at https://www.linkedin.com/jobs/view/1196984442/ .
+
+- Analyst Internship at eWards . Check it out at https://www.linkedin.com/jobs/view/1195702695/ .
+
+- Data Analytics Internship at Verdis.ai . Check it out at https://www.linkedin.com/jobs/view/1186843617/ .
+
+- Data Analytics Internship at FlexiEle . Check it out at https://www.linkedin.com/jobs/view/1196267840/ .
