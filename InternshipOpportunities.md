@@ -139,3 +139,5 @@
 - Data Analytics Internship at Verdis.ai . Check it out at https://www.linkedin.com/jobs/view/1186843617/ .
 
 - Data Analytics Internship at FlexiEle . Check it out at https://www.linkedin.com/jobs/view/1196267840/ .
+
+- Machine Learning Intern at GuestHouser . Check it out at https://www.linkedin.com/comm/jobs/view/1194853666 .
