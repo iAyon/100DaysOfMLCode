@@ -143,3 +143,5 @@
 - Machine Learning Intern at GuestHouser . Check it out at https://www.linkedin.com/comm/jobs/view/1194853666 .
 
 - Data Science - GIS Analytics Internship at Jambudweep Shodh Kendra . Check it out https://www.linkedin.com/comm/jobs/view/1205277823 .
+
+- Machine Learning Internship at Intellify . Check it out at https://www.linkedin.com/jobs/view/1211763606/ .
