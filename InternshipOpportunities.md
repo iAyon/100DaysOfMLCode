@@ -147,3 +147,7 @@
 - Machine Learning Internship at Intellify . Check it out at https://www.linkedin.com/jobs/view/1211763606/ .
 
 - Data Analytics Internship at Vuclip Inc. Check it out at https://www.linkedin.com/jobs/view/1207073976/ .
+
+- Natural Language Processing Internship at Pucho Technology Information Private Limited . Check it out at https://www.linkedin.com/jobs/view/1221251354/ .
+
+- Data Analytics Internship at TBM Technologies Private Limited . Check it out at https://www.linkedin.com/jobs/view/1221233115/ .
