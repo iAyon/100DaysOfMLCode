@@ -1,5 +1,7 @@
 # Internship Opportunities
 
+## For latest opportunities , swipe down towards the last as new opportunities are being updated by me at the bottom .
+
 - Technology Intern Analyst Program at Morgan Stanley . Check at https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-cd39223bd45f/candidate/so/pm/1/pl/1/opp/5943-2019-Technology-Intern-Analyst-Program-Mumbai-Bangalore/en-GB?src=JB-10109
 
 - Software Engineering Intern at Microsoft . Check at https://www.linkedin.com/jobs/view/990750362/?trk=li_mtv_apac-in_bcs_mtvgajs5_mtvpromo_gajMicrosoft .
@@ -151,3 +153,9 @@
 - Natural Language Processing Internship at Pucho Technology Information Private Limited . Check it out at https://www.linkedin.com/jobs/view/1221251354/ .
 
 - Data Analytics Internship at TBM Technologies Private Limited . Check it out at https://www.linkedin.com/jobs/view/1221233115/ .
+
+- Machine Learning Internship at Augment Systems Pvt. Ltd . Check it out at https://www.linkedin.com/jobs/view/1229954978/ .
+
+- AI & Robotic Internship at Contentra Technologies(India) Private Limited . Check it out at https://www.linkedin.com/jobs/view/1225710941/ .
+
+- Data Science part time job/internship at Precily . Check it out at https://www.linkedin.com/jobs/view/1225715771/ .
