@@ -159,3 +159,5 @@
 - AI & Robotic Internship at Contentra Technologies(India) Private Limited . Check it out at https://www.linkedin.com/jobs/view/1225710941/ .
 
 - Data Science part time job/internship at Precily . Check it out at https://www.linkedin.com/jobs/view/1225715771/ .
+
+- Machine Learning Internship at Ocaision . Check it out at https://www.linkedin.com/jobs/view/1223432249/ .
