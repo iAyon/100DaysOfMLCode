@@ -169,3 +169,5 @@
 - Data Science Intern at Voziq . Check it out at https://www.linkedin.com/feed/update/urn:li:ugcPost:6528523197011329024/ .
 
 - Machine Learning Internship Challenge at Fynd . Check it out at https://dare2compete.com/o/machine-learning-internship-challenge-2019-fynd-82561 .
+
+- Data Analytics Internship at Times Internet . Check it out at https://www.linkedin.com/jobs/view/1245352968/ .
