@@ -116,7 +116,7 @@ Ayon Roy
 
 ( Creator of the 100 Days Of ML Telegram group )
 
-- Visit my website : https://ayonroy.me/ 
+- Visit my website : https://ayonroy.ml/ 
 - Email : ayon.roy2000@gmail.com 
 - Telegram Username : ayonroy2000
 
