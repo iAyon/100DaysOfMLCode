@@ -1,6 +1,6 @@
 # Internship Opportunities
 
-## For latest opportunities , swipe down towards the last as new opportunities are being updated by me at the bottom .
+## For latest opportunities , swipe down towards the end of list as new opportunities are being updated by me at the bottom . Some of the opportunities may be closed now as the requirements may have been met , so do try to check the internship opportunities situated near the bottom .
 
 - Technology Intern Analyst Program at Morgan Stanley . Check at https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-cd39223bd45f/candidate/so/pm/1/pl/1/opp/5943-2019-Technology-Intern-Analyst-Program-Mumbai-Bangalore/en-GB?src=JB-10109
 
@@ -171,3 +171,6 @@
 - Machine Learning Internship Challenge at Fynd . Check it out at https://dare2compete.com/o/machine-learning-internship-challenge-2019-fynd-82561 .
 
 - Data Analytics Internship at Times Internet . Check it out at https://www.linkedin.com/jobs/view/1245352968/ .
+
+- Data Science Internship at Learnogether Technologies Private Limited . Check it out at https://www.indeed.co.in/viewjob?jk=f051b8d5982e35b0&q=internship&l=Delhi&tk=1da6c2p9i3nje80c&from=ja&alid=5a169ce290086c3b1513e2c2 .
+
