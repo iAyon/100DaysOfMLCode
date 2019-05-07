@@ -174,3 +174,4 @@
 
 - Data Science Internship at Learnogether Technologies Private Limited . Check it out at https://www.indeed.co.in/viewjob?jk=f051b8d5982e35b0&q=internship&l=Delhi&tk=1da6c2p9i3nje80c&from=ja&alid=5a169ce290086c3b1513e2c2 .
 
+- Analytics Vidhya Internship Challenge for Data Science . Check it out at https://datahack.analyticsvidhya.com/contest/av-internship-challenge/ .
