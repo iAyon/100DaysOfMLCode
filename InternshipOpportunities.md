@@ -175,3 +175,13 @@
 - Data Science Internship at Learnogether Technologies Private Limited . Check it out at https://www.indeed.co.in/viewjob?jk=f051b8d5982e35b0&q=internship&l=Delhi&tk=1da6c2p9i3nje80c&from=ja&alid=5a169ce290086c3b1513e2c2 .
 
 - Analytics Vidhya Internship Challenge for Data Science . Check it out at https://datahack.analyticsvidhya.com/contest/av-internship-challenge/ .
+
+- Machine Learning Internship at Pucho Technology Information Private Limited . Check it out at https://www.linkedin.com/jobs/view/1221240085/ .
+
+- Data Science Internship at Terra Economics Analysis Lab . Check it out at https://www.linkedin.com/jobs/view/1247586993/
+
+- Machine Learning Internship at Augment Systems Pvt. Ltd. Check it out at https://www.linkedin.com/jobs/view/1251729157/ .
+
+- Data Science Internship at MaiVin Consulting Services Pvt. Ltd. Check it out at https://internshala.com/internship/detail/data-science-internship-in-delhi-at-maivin-consulting-services-private-limited1557202505
+
+- Data Analytics part time job/internship in Handygo Technologies . Check it out at https://internshala.com/internship/detail/data-analytics-part-time-job-internship-at-delhi-in-handygo-technologies1556868757.
