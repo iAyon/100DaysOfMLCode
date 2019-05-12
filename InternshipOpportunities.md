@@ -187,3 +187,5 @@
 - Data Analytics part time job/internship in Handygo Technologies . Check it out at https://internshala.com/internship/detail/data-analytics-part-time-job-internship-at-delhi-in-handygo-technologies1556868757.
 
 - Artificial Intelligence (Ai) Internship at Athansys Incorporation . Check it out at https://www.linkedin.com/jobs/view/1263517174/ .
+
+- Tensorflow+Scikit research internship at RedCarpetUp. Check it out at https://www.linkedin.com/jobs/view/1162801307/ .
