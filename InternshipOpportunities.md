@@ -189,3 +189,6 @@
 - Artificial Intelligence (Ai) Internship at Athansys Incorporation . Check it out at https://www.linkedin.com/jobs/view/1263517174/ .
 
 - Tensorflow+Scikit research internship at RedCarpetUp. Check it out at https://www.linkedin.com/jobs/view/1162801307/ .
+
+- Data Analyst Internship at Sociomonkey . Check it out at https://www.indeed.co.in/viewjob?alid=5a169ce290086c3b1513e2c2&from=ja,iaBackPress&jk=a5281d2d5d950a67&l=Delhi&q=internship&rgtk=1dalntpb03pa480m&tk=1dalntpb03pa480m.
+
