@@ -2,6 +2,9 @@
 
 ## For latest opportunities , swipe down towards the end of list as new opportunities are being updated by me at the bottom . Some of the opportunities may be closed now as the requirements may have been met , so do try to check the internship opportunities situated near the bottom .
 
+
+### Mutliple opportunities are removed from this list on a regular basis as the requirement of the companies are met !! So keep applying, you don't where your luck will take you. All the best! 150+ opportunities posted from 1-01-2019 to 18-05-2019, which are no longer accepting applications were removed on 19-05-2019. Keep a watch on this file as new opportunities are posted here regularly from different sources. 
+
 - Data Science Internship at Terra Economics Analysis Lab . Check it out at https://www.linkedin.com/jobs/view/1247586993/
 
 - Machine Learning Internship at Augment Systems Pvt. Ltd. Check it out at https://www.linkedin.com/jobs/view/1251729157/ .
