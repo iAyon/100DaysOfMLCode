@@ -114,7 +114,7 @@ Don`t worry about the monthly / weekly deadlines , try to understand the concept
 
 Ayon Roy
 
-( Creator of the 100 Days Of ML Telegram group )
+( Creator of the 100+ Days Of ML Telegram group )
 
 - Visit my website : https://ayonroy.ml/ 
 - Email : ayon.roy2000@gmail.com 
