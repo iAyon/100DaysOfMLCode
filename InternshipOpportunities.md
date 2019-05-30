@@ -34,6 +34,10 @@
 
 - Machine Learning Internship at Agsmartic Technologies Pvt. Ltd. Check it out at https://www.linkedin.com/jobs/view/1294666946/.
 
+- Machine Learning Internship at Agsmartic Technologies Pvt. Ltd, Check it out at https://internshala.com/internship/detail/machine-learning-internship-in-delhi-at-agsmartic-technologies-private-limited1558932500.
+
+- Data Analysis Internship at Uno Finance. Check it out at https://internshala.com/internship/detail/data-analysis-internship-in-delhi-at-uno-finance1558944752.
+
 ### Mutliple opportunities are removed from this list on a regular basis as the requirement of the companies are met !! So keep applying, you don't know where your luck will take you. 150+ opportunities were posted from 1-01-2019 to 18-05-2019, which are no longer accepting applications, were removed on 19-05-2019. Keep a watch on this file as new opportunities are posted here regularly from different sources.
 
 # All the best!
