@@ -44,6 +44,20 @@
 
 - Business Analyst Internship at MNR Solutions Pvt. Ltd. Check it out at https://www.linkedin.com/jobs/view/1282445701/.
 
+- Data Analyst Internship at Innovi Technologies Ltd. Check it out at https://www.linkedin.com/jobs/view/1308642151/.
+
+- Advanced Machine learning internship at RedCarpetUp. Check it out at https://www.linkedin.com/jobs/view/1163835285/ .
+
+- Artificial Intelligence (AI) part time job/internship at Arbunize Digital Media Pvt. Ltd. Check it out at https://www.linkedin.com/jobs/view/1308239363/.
+
+- Data Analytics Internship at BrainStorm Achievers. Check it out at https://internshala.com/internship/detail/data-analytics-internship-in-delhi-at-brainstorm-achievers1559296759.
+
+- Data Mining Internship at AICTE. Check it out at https://internshala.com/internship/detail/data-mining-internship-in-delhi-at-aicte1559112132.
+
+- Data Analytics Internship in Delhi at GreenTech ITS. Check it out at https://internshala.com/internship/detail/data-analytics-internship-in-delhi-at-greentech-its1559114807.
+
+- Artificial Intelligence (AI) Internship at Ashuank Asmay Pvt Ltd. Check it out at https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-delhi-at-ashuank-asmay-private-limited1559568008.
+
 ### Mutliple opportunities are removed from this list on a regular basis as the requirement of the companies are met !! So keep applying, you don't know where your luck will take you. 150+ opportunities were posted from 1-01-2019 to 18-05-2019, which are no longer accepting applications, were removed on 19-05-2019. Keep a watch on this file as new opportunities are posted here regularly from different sources.
 
 # All the best!
