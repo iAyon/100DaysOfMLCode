@@ -46,7 +46,17 @@
 
 - Data Science Internship at ExpenseBit. Check it out at https://internshala.com/internship/detail/data-science-internship-in-bangalore-at-expensebit1559653917.
 
-### Mutliple opportunities are removed from this list on a regular basis as the requirement of the companies are met !! So keep applying, you don't know where your luck will take you. 200+ opportunities were posted from 1-01-2019 to 6-06-2019, which are no longer accepting applications, were removed on 7-06-2019. Keep a watch on this file as new opportunities are posted here regularly from different sources.
+- Data Analytics Internship at Uboard India. Check it out at https://www.linkedin.com/jobs/view/1319359358/.
+
+- Data Analytics Internship at Quixote. Check it out at https://www.linkedin.com/jobs/view/1319357054/.
+
+- Machine Learning Internship at Astute Resolutions. Check it out at https://www.linkedin.com/jobs/view/1319351051/.
+
+- Data Analytics Internship at Schemopedia.org. Check it out at https://www.linkedin.com/jobs/view/1319386397/.
+
+- Machine Learning Undergrad Intern at Intel. Check it out at https://www.linkedin.com/jobs/view/1319068782/.
+
+### Mutliple opportunities are removed from this list on a regular basis as the requirement of the companies are met !! So keep applying, you don't know where your luck will take you. 200+ opportunities were posted from 1-01-2019 to 6-06-2019, which are no longer accepting applications, were removed on 7-06-2019. Keep a watch on this file as new opportunities are posted here regularly from different Data Analytics Internship in Ahmedabad at Quixotesources.
 
 # All the best!
 
