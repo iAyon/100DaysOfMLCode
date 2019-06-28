@@ -2,6 +2,18 @@
 
 ## For latest opportunities , swipe down towards the end of list as new opportunities are being updated by me at the bottom . Some of the opportunities may be closed now as the requirements may have been met , so do try to check the internship opportunities situated near the bottom .
 
+- Machine Learning/ NLP/ Python Internship at Nimoy.ai. Check it out at https://www.linkedin.com/jobs/view/1346172396/.
+
+- Deep Learning/Machine Learning/Artificial Intelligence Internship at Pratibha Analytics. Check it out at https://www.linkedin.com/jobs/view/1346190516/.'
+
+- Computer Vision Internship at Prizmatics. Check it out at https://www.linkedin.com/jobs/view/1346309045/.
+
+- Data Science Internship at Precily. Check it out at https://www.linkedin.com/jobs/view/1346191290/.
+
+- Data Analytics Internship at Direct Create. Check it out at https://www.linkedin.com/jobs/view/1346155986/.
+
+- Python Development Internship at ZIGRAM. Check it out at https://www.linkedin.com/jobs/view/1346178099/.
+
 - Data Science/ Performance Analytics Internship at Merkle Sokrati. Check it out at https://www.linkedin.com/jobs/view/1328363589/ .
 
 - Data Analytics Internship at MYLO Group, LTD. Check it out at https://www.linkedin.com/jobs/view/1337651926/.
