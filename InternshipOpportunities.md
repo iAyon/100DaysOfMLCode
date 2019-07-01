@@ -1,6 +1,20 @@
 # Internship Opportunities
 
-## For latest opportunities , swipe down towards the end of list as new opportunities are being updated by me at the bottom . Some of the opportunities may be closed now as the requirements may have been met , so do try to check the internship opportunities situated near the bottom .
+## For latest opportunities , swipe down towards the end of list as new opportunities are being updated by me at the bottom . Some of the opportunities may be closed now as the requirements may have been met , so do try to check the internship opportunities situated near the top .
+
+- Deep Learning & Computer Vision Internship at Dimensionless Technologies. Check it out at https://www.linkedin.com/jobs/view/1349477129/.
+
+- Deep Learning Internship at HyperVerge, Inc. Check it out at https://www.linkedin.com/jobs/view/1308517795/.
+
+- Machine Learning Internship at Techshra. Check it out at https://www.linkedin.com/jobs/view/1321233664/.
+
+- Data Science Internship at Biz Viz Lab. Check it out at https://www.linkedin.com/jobs/view/1349737585/.
+
+- Deep Learning Internship at Mek Vahan. Check it out at https://www.linkedin.com/jobs/view/1349049293/.
+
+- Machine Learning & Natural Language Processing Internship at Intelifai. Check it out at https://www.linkedin.com/jobs/view/1349127089/.
+
+- Business Analyst Internship at MNR Solutions Pvt. Ltd. Check it out at https://www.linkedin.com/jobs/view/1334683925/.
 
 - Machine Learning/ NLP/ Python Internship at Nimoy.ai. Check it out at https://www.linkedin.com/jobs/view/1346172396/.
 
