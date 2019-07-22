@@ -52,7 +52,11 @@
 
 - Data Analytics Internship at Aam Aadmi Party. Check it out at https://www.linkedin.com/jobs/view/1308229088/.
 
-### Mutliple opportunities are removed from this list on a regular basis as the requirement of the companies are met !! So keep applying, you don't know where your luck will take you. 250+ opportunities were posted from 1-01-2019 to 26-06-2019, which are no longer accepting applications, were removed on 27-06-2019. Keep a watch on this file as new opportunities are posted here regularly from different Data Analytics Internship in Ahmedabad at Quixotesources.
+- Machine Learning,NLP & Deep Learning Internship at Proiba. Check it out at https://www.linkedin.com/jobs/view/1386365991/.
+
+- Machine Learning Intern (Technical) at Synopsys Inc. Check it out at https://www.linkedin.com/jobs/view/1385230849/.
+
+### Mutliple opportunities are removed from this list on a regular basis as the requirement of the companies are met !! So keep applying, you don't know where your luck will take you. 300+ opportunities were posted from 1-01-2019 to 22-07-2019, which are no longer accepting applications, were removed on 15-07-2019. Keep a watch on this file as new opportunities are posted here regularly from different Data Analytics Internship in Ahmedabad at Quixotesources.
 
 # All the best!
 
