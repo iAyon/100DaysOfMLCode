@@ -1,4 +1,4 @@
-# 100 Days Of ML Telegram Group ([Join here](https://t.me/joinchat/I54yzEjJfNaZpkMmFXRDkg))
+# 100 Days Of ML Telegram Group ([Join here](https://t.me/hundreddaysofml))
 
 - The group which was initiated by me ( Ayon Roy ) to help 10-15 beginners initially , recently crossed the member strength of 3950+ !! Thanks to all the members who joined in , to learn and explore together .
 
