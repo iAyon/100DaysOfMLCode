@@ -49,7 +49,7 @@ Finally — and they would contribute to the plethora of existing resources 
 
 Thereby accept 100 Days of ML Code Challenge! They thank the community around for such a productive endeavor and very much look forward to participating in this challenge with the group  .
 
-## It was an awesome learning journey with 3950+ people starting 1-1-2019 and ending on 31-12-2019  ->  Ayon Roy !! 
+## It was an awesome learning journey with 3950+ people starting 1-1-2019 and ending on 31-12-2019 !! 
 
 
 
