@@ -10,6 +10,7 @@ Machine Learning is the most transformative technology of our time. Whether itâ€
 
 Everyone is eligible, even people who've never coded before and ready to strive on an awesome journey of learning starting from 1st January , 2019 to 31st December , 2019 !!
 
+
 ## About the Group Members
 
 The 100+ Days of ML Code Telegram Group Members are :
@@ -52,4 +53,5 @@ Thereby accept 100+ Days of ML Code Challenge! They thank the community around f
 ## It was an awesome learning journey with 3950+ people starting 1-1-2019 and ending on 31-12-2019 !! 
 
 
+![A Screengrab from the 100+ Days Of ML Code Telegram Group](https://github.com/ayonroy2000/100DaysOfMLCode/blob/master/100%2BDaysOfMLCode.png)
 
