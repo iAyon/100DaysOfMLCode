@@ -27,7 +27,7 @@ https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
 ## Note : 
 * Please try to finish the monthly targets of Month 1 as soon as possible , so that you can get ample amount for time for exploring the courses in Month 2 . They are rock strong courses to work upon which will require a lot of commitment , time and patience !!
 * If you like to get theoretical notes for Mathematical concepts of Month 1 , view it in the Miscellaneous Section .
-* It`s not mandatory to do all the courses mentioned above , if you are quite fluent with these parts , you are free to skip them out and move on to Month 2 targets.
+* It is not mandatory to do all the courses mentioned above , if you are quite fluent with these parts , you are free to skip them out and move on to Month 2 targets.
 * There are no weekly assignments for the coursework , if you want to do the assignments , check for them in the respective course links shared above .
 
 ## Month 2
@@ -50,7 +50,7 @@ Download the course from - https://drive.google.com/drive/u/0/folders/1BtLftZRWd
 ## Note :
 
 * No weekly commitments have been set for this month as completing the courses of Month 2 requires immense concept clearing and that highly varies from person to person . Do try to finish the courses patiently with all doubts getting cleared as these form the basics for ML applications . 
-* If you are not able to finish the courses within Month 2 , it`s all okay . Do take your time in Month 3 and then start with projects . The coursework is independent as per your comfort .
+* If you are not able to finish the courses within Month 2 , it is all okay . Do take your time in Month 3 and then start with projects . The coursework is independent as per your comfort .
 * There are no weekly assignments for the coursework , if you want to do the assignments , check for them in the respective course links shared above .
 
 ## Month 3 ( Month of Projects )
@@ -89,35 +89,33 @@ First of all see Below 2 videos to get an idea on how to make projects of Data S
 
 
 ## Note :
-* It`s not necessary to do all the projects mentioned above , you may choose them as per your comfort zone and commitment . Apart from that , you can also choose a project not mentioned above . Main motive is to do things , independent of the sources !!
+* It is not necessary to do all the projects mentioned above , you may choose them as per your comfort zone and commitment . Apart from that , you can also choose a project not mentioned above . Main motive is to do things , independent of the sources !!
 * Beginners , if you are fluent with the concepts by Month 2 end , you can consider picking up any 2 projects from the beginners section and then try to pick a project from Intermediate & Advanced Section .
 * If you are completing the courses mentioned ( in Month 2 ) still in Month 3 , then no worries . Complete the courses fully and patiently , then try doing the projects . 
 * Details of the projects like what to do , how to do , datasets required etc. will be shared by the mid / end of Month 2 . Some more projects may be added and projects currently mentioned above may be removed as per the majority demands of the members . 
 
 
-## To all the members of 100 Days Of ML Telegram Group regarding the coursework , 
+## To all the members of 100+ Days Of ML Code Telegram Group regarding the coursework , 
 
-This is an independent coursework mainly designed for the members of the telegram group for 100 Days of Machine Learning initiated by 
+This is an independent coursework mainly designed for the members of the telegram group for 100+ Days of ML Code initiated by 
 Ayon Roy . All the members are free to move forward by making commitments to this Coursework , however it is not a compulsion to follow
 the specific path mentioned in the coursework ; you are free to utilize & commit your time for next 100 Days in the field of Machine 
 Learning . I know that being a student / working professional , sometimes it may not be possible for you to devote 1 hour on a daily basis
 , due to exams and other life goals like friends , families etc. and its quite cool to keep learning ML alongside these . But the main 
-point is that “ PATIENCE , COMMITMENT  IS THE KEY TO SUCCESS “ , keeping this in mind ; you are requested to move forward . Its not
-compulsory that you start the course from 1/1/19 only , you may start later due to exams or any unavoidable conditions ; the group members 
-are here to help you even after the suggested end of 100 Days Of ML i.e. 10th April , 2019 . But do understand that this initiative prompts you to devote 100 hours in total and I hope you all can do this as per your convenience . Don`t rush as per the
-coursework or other group members , take your time and dive into Machine Learning patiently and with full confidence .
+point is that “ PATIENCE , COMMITMENT  IS THE KEY TO SUCCESS “ , keeping this in mind ; you are requested to move forward . It is not
+compulsory that you start the course from 1/1/19 only , you may start later due to exams or any unavoidable conditions ; the group members are here to help you even after the suggested end of 100+ Days Of ML Code i.e. 10th April , 2019 . But do understand that this initiative prompts you to devote atleast 100 hours in total and I hope you all can do this as per your convenience . Do not rush as per the coursework or other group members , take your time and dive into Machine Learning patiently and with full confidence .
 
 I along with mentors and other members are here to help you along the journey , but do consider asking your doubts only after searching for the same on Google and still if you face any difficulty , then we are here for your support !
-Don`t worry about the monthly / weekly deadlines , try to understand the concepts well !! Take your time !!
+Do not worry about the monthly / weekly deadlines , try to understand the concepts well !! Take your time !!
 
 ## Regards ,
 
 Ayon Roy
 
-( Creator of the 100+ Days Of ML Telegram group )
+( Creator of the 100+ Days Of ML Code Telegram group )
 
 - Visit my website : https://ayonroy.ml/ 
 - Email : ayon.roy2000@gmail.com 
-- Telegram Username : ayonroy2000
+- Telegram Username : @ayonroy2000
 
 
