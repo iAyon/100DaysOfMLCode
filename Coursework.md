@@ -37,9 +37,6 @@ https://www.datacamp.com/courses/intro-to-python-for-data-science
 
 - Want to dive deeper into Data Visualization & Pre-Processing ? Look into Data Visualization & Pre-Processing section in miscellaneous resources . [ Highly optional ]  
  
-- Machine Learning A-Z™: Hands-On Python & R in Data Science [B]
-Download the course from - https://drive.google.com/drive/u/0/folders/1BtLftZRWdDnj6uc0vxNgynMvd7o9ZfCV
-
 - Want to explore the field of Deep Learning ? See the Deep Learning Section in miscellaneous resources . [ Highly optional ]  
 - Want to explore the field of Natural Language Processing [ NLP } ? See the Natural language Processing Section in miscellaneous resources . [ Highly optional ]
 
