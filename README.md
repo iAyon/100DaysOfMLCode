@@ -1,4 +1,4 @@
-# 100+ Days Of ML Code Telegram Group
+# 100+ Days Of ML Code Telegram Group ( Maintained till 31-12-2019 )
 
 The Telegram group which was initiated by me ( [Ayon Roy](https://ayonroy.ml/) ) to help 10-15 beginners initially , grew upto the member strength of 3950+ !! Thanks to all the members who joined in , to learn and explore together . This group is no longer existing as I was handling this group from 1-1-2019 to 31-12-2019.
 
